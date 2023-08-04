@@ -1,0 +1,26 @@
+My dog's name is Sunny.
+me chamo Jefferson
+
+carros: 5
+motoristas: 3
+rotas: 4
+motos: 4
+cor dos carros: vermelhos
+telefones:
+João: {
+    telefone:3232-5234,
+    motorista: sim
+    }
+Tomás: {
+    telefone: 3232-3543,
+    motorista: não
+}
+ônibus 1: {
+    estado: ruim
+}
+empresa: { 
+    nome: Interfy
+    tipo: transportes
+}
+ o Guli é o grande pato amarelo, líder da Gulicracia, um grupo de pessoas maravilhosas
+ que ainda dominarão o universo

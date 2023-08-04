@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>GPT Próprio</title>
+  </head>
+  <body>
+    <h1>GPT Próprio</h1>
+    <form method="post">
+      <label for="query">Digite a sua requisição:</label>
+      <input type="text" name="query" id="query" />
+      <input type="submit" value="Enviar" />
+    </form>
+    {% if query %}
+    <h2>Sua requisição: {{ query }}</h2>
+    {% endif %} {% if response %}
+    <h2>Resposta:</h2>
+    <p>{{ response }}</p>
+    {% endif %}
+  </body>
+</html>
